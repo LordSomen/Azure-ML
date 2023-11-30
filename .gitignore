@@ -1,0 +1,6 @@
+*.json
+*.dbc
+*.DS_Store
+*.zip
+*.pkl
+*.log
